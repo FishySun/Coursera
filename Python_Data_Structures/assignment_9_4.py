@@ -22,3 +22,5 @@ for key, val in words.items():
         maxval = val
 
 print(maxword, maxval)
+
+fh.close()
